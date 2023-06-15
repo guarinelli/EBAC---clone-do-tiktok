@@ -1,1 +1,1 @@
-Jornada FULL STACK: Criando um clone do TikTok!
+EBAC - Jornada FULL STACK: Criando um clone do TikTok!
