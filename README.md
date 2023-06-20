@@ -1,16 +1,12 @@
 EBAC - Jornada FULL STACK: Criando um clone do TikTok!
 
-<pre>
-  
 
 Meu primeiro contato com React!
 Criamos um clone simples do TikTok 
-utilizando JavaScript e o 
-banco de dados foi o Firebase. 
-  
-</pre>
+utilizando  HTML, CSS, JAVASCRIPT 
+e o banco de dados foi o Firebase. 
 
-<a href="https://ebac-clone-tiktok.web.app/" target="_blank"> Clique aqui para ver o meu projeto </a>
+<a href="https://ebac-clone-tiktok.web.app/"> Clique aqui para ver o meu projeto </a>
                 
 
 
